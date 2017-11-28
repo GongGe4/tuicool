@@ -1,0 +1,58 @@
+.self-myself-touxiang {
+  height: 100px;
+}
+.self-myself-touxiang a .self-touxiang {
+  display: block;
+  max-width: 100px;
+  height: 78px;
+}
+.self-myself-touxiang a .self-touxaing-desc {
+  line-height: 78px;
+  color: #333;
+  padding-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.self-shezhi-list {
+  line-height: 22px;
+}
+.self-shezhi-list .self-myself-icon {
+  font-size: 25px;
+  margin-right: 10px;
+}
+.self-shezhi-list .self-daidu {
+  color: #00A482;
+}
+.self-shezhi-list .self-shoucan {
+  color: #DE0000;
+}
+.self-shezhi-list .self-tuikan {
+  color: #00AAE6;
+}
+.self-shezhi-list .self-tongzhi {
+  color: #00A481;
+}
+.self-shezhi-list .self-lishi {
+  color: #257ADE;
+}
+.self-shezhi-list .self-moshi {
+  color: #00ABDF;
+}
+.self-shezhi-list .self-yuedu {
+  color: #00A480;
+}
+.self-shezhi-list .self-shezhi {
+  color: #FF6C00;
+}
+.self-shezhi-list .self-gengxin {
+  color: #00AE85;
+}
+.self-shezhi-list .self-fankui {
+  color: #007FD7;
+}
+.self-shezhi-list .self-women {
+  color: #D60000;
+}
+.self-myself-content {
+  margin-bottom: 100px;
+}
